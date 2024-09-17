@@ -19,7 +19,7 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
     - Stratégie de test non-fonctionnel
   - Rédaction des cas de test
   - Execution des tests
-  - Automatisaton des tests
+  - Automatisaton des tests --> [Script Python](script/test_connexion.py)
 
 ## Voici un appercu des étapes clés 
 #### Règles de nommage
