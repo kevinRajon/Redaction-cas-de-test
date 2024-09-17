@@ -31,5 +31,5 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 #### Mise en place d'un tableau de synthèse 
 <img src="img/synth.png" width="700" height="350" />
 
-#### Automatisation des tests 
+#### Automatisation des tests --> [Script Python](script/test_connexion.py)
 <img src="img/auto.gif" width="900" height="450" />
