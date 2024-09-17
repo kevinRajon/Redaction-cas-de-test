@@ -25,5 +25,11 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 #### Règles de nommage
 <img src="img/nom.png" width="700" height="350" />
 
+#### Rédaction des cas de test 
+<img src="img/cas.png" width="700" height="350" />
 
+#### Mise en place d'un tableau de synthèse 
+<img src="img/synt.png" width="700" height="350" />
+
+#### Automatisation des tests 
 
