@@ -32,4 +32,4 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 <img src="img/synth.png" width="700" height="350" />
 
 #### Automatisation des tests 
-
+<img src="img/auto.gif" width="900" height="450" />
