@@ -3,7 +3,7 @@ Afin de nous familiariser avec la rédaction de cas de test et les bonnes pratiq
 
 ### URL de la page: https://inscription.it-akademy.fr/ <br/>
 ### Module à tester:
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+![](img/cone.png =250x250)
 
 ### Déroulé
   - Définition dela stratégie de test
